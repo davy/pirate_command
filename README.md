@@ -1,8 +1,8 @@
-pirate_commands
+pirate_command
 ===============
 
 
 ```ruby
-PirateCommands.generate
+PirateCommand.generate
 => "Swab the Poop Deck"
 ```

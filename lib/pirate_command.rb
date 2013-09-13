@@ -2,7 +2,7 @@ require 'forgery'
 
 Forgery.load_from!('lib')
 
-class PirateCommands < Forgery
+class PirateCommand < Forgery
 
   def self.action
     dictionaries[:pirate_actions].random
