@@ -14,14 +14,16 @@ PirateCommand.thing
 
 ```
 
+
+TODO
+-----------------------
+
 Need to fill out dictionaries:
 
 http://mattmcelligott.com/backbeardforhire/dictionary.php
 
 http://www.enchantedlearning.com/wordlist/pirate.shtml
 
-
-TODO
------------------------
+http://www.thepirateking.com/index.htm
 
 Add other options? Dictionary for prefixes (ie. 'Arrrr') or suffixes (ie. ', me matey')
