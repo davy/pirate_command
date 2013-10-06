@@ -1,0 +1,9 @@
+History.txt
+LICENSE
+Manifest.txt
+README.md
+Rakefile
+lib/dictionaries/pirate_actions
+lib/dictionaries/pirate_exclamations
+lib/dictionaries/pirate_things
+lib/pirate_command.rb

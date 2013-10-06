@@ -4,6 +4,8 @@ Forgery.load_from!('lib')
 
 class PirateCommand < Forgery
 
+  VERSION = '0.0.1'
+
   def self.action
     dictionaries[:pirate_actions].random
   end
