@@ -1,6 +1,6 @@
 require 'forgery'
 
-Forgery.load_from!('lib')
+Forgery.load_paths << File.dirname(__FILE__)
 
 class PirateCommand < Forgery
 
