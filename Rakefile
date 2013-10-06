@@ -10,7 +10,7 @@ require "hoe"
 # Hoe.plugin :rcov
 # Hoe.plugin :rubyforge
 
-Hoe.spec "/Users/davy/tmp/pirate_command" do
+Hoe.spec "pirate_command" do
   # HEY! If you fill these out in ~/.hoe_template/Rakefile.erb then
   # you'll never have to touch them again!
   # (delete this comment too, of course)
