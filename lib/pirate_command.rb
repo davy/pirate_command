@@ -17,5 +17,13 @@ class PirateCommand < Forgery
   def self.generate
     "#{self.action} the #{self.thing}"
   end
+
+  def self.exclaim
+    dictionaries[:pirate_exclamations].random
+  end
+
+  def self.exclaim!
+    "#{self.exclaim}!"
+  end
 end
 

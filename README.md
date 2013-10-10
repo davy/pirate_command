@@ -14,6 +14,12 @@ PirateCommand.action
 PirateCommand.thing
 => "Main Sail"
 
+PirateCommand.exclaim
+=> "Ahoy"
+
+PirateCommand.exclaim!
+=> "Shiver me Timbers!"
+
 ```
 
 ## FEATURES/PROBLEMS:
