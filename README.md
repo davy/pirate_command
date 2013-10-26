@@ -1,6 +1,6 @@
 # pirate_command
 
-* http://github.com/davy/pirate_command 
+* http://github.com/davy/pirate_command
 
 ## DESCRIPTION:
 
