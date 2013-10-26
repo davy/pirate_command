@@ -4,6 +4,10 @@
 
 ## DESCRIPTION:
 
+Randomly generates Pirate actions, things, exclamations or simple commands.
+
+## SYNOPSIS:
+
 ```ruby
 PirateCommand.generate
 => "Swab the Poop Deck"
@@ -21,26 +25,6 @@ PirateCommand.exclaim!
 => "Shiver me Timbers!"
 
 ```
-
-## FEATURES/PROBLEMS:
-
-* FIX (list of features or problems)
-
-http://mattmcelligott.com/backbeardforhire/dictionary.php
-
-http://www.enchantedlearning.com/wordlist/pirate.shtml
-
-http://www.thepirateking.com/index.htm
-
-Add other options? Dictionary for prefixes (ie. 'Arrrr') or suffixes (ie. ', me matey')
-
-## SYNOPSIS:
-
-  FIX (code sample of usage)
-
-## REQUIREMENTS:
-
-* FIX (list of requirements)
 
 ## INSTALL:
 
