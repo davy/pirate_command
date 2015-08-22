@@ -28,15 +28,15 @@ PirateCommand.exclaim!
 
 ## INSTALL:
 
-```
-  $ sudo gem install pirate_command
+```bash
+  gem install pirate_command
 ```
 
 ## DEVELOPERS:
 
 After checking out the source, run:
-```
-  $ rake newb
+```bash
+  rake newb
 ```
 
 This task will install any missing dependencies, run the tests/specs,
